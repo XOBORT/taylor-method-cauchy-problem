@@ -51,6 +51,6 @@ project-folder/
 
 ## Контакты
 
-- Telegram: [https://t.me/Xobortz]
-- Email: [genaj.2000@yandex.ru]
-- Профиль: [https://github.com/XOBORT](https://github.com/XOBORT)
+- [Telegram](https://t.me/Xobortz)
+- Email: [genaj.2000@yandex.ru]  
+- Профиль: [XOBORT](https://github.com/XOBORT)
